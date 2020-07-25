@@ -9,7 +9,8 @@
 <br />
 <br />
 
-Hi, I'm Cullen Sessions, a passionate self-taught programmer from Texas. I have a Bachelor’s Degree in Biomedical Engineering.
+Hi, I'm Cullen Sessions, a passionate self-taught programmer from Texas. 
+I just graduated with a Bachelor’s Degree in Biomedical Engineering.
 
 
 <p align="center"> 
