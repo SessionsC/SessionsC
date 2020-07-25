@@ -10,6 +10,7 @@
 <br />
 
 Hi, I'm Cullen Sessions, a passionate self-taught programmer from Texas. 
+<br />
 I just graduated with a Bachelor’s Degree in Biomedical Engineering.
 
 
