@@ -1,7 +1,12 @@
-### Hello there I'm Cullen 👋
+### Hey there, I'm Cullen 👋
+<a href="https://www.linkedin.com/in/cullensessions/">
+  <img align="left" alt="Cullen Sessions | LinkedIn" width="20px" src="https://raw.githubusercontent.com/SessionsC/SessionsC/master/assets/linkedin.svg" />
+</a>
+<a href="https://discord.gg/Xet4x6">
+  <img align="left" alt="Cullen Sessions | Discord" width="21px" src="https://raw.githubusercontent.com/SessionsC/SessionsC/master/assets/iconfinder_discord_3069758.png" />
+</a>
 
-
-
+Hi, I'm Cullen Sessions, a passionate self-taught programmer from Texas. I have a Bachelor’s Degree in Biomedical Engineering.
 
 
 <p align="center"> 
