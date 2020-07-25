@@ -6,6 +6,9 @@
   <img align="left" alt="Cullen Sessions | Discord" width="21px" src="https://raw.githubusercontent.com/SessionsC/SessionsC/master/assets/iconfinder_discord_3069758.png" />
 </a>
 
+<br />
+<br />
+
 Hi, I'm Cullen Sessions, a passionate self-taught programmer from Texas. I have a Bachelor’s Degree in Biomedical Engineering.
 
 
