@@ -12,7 +12,21 @@
 Hi, I'm Cullen Sessions, a passionate self-taught programmer from Texas. 
 <br />
 I just graduated with a Bachelor’s Degree in Biomedical Engineering.
+<br />
 
+here is a quick preview of some of my work:
+<br />
+
+Sierpinski triangle from random points given a set of rules
+<br />
+
+![](tri_chaos.gif)
+<br />
+
+Blood cell tracker
+<br />
+![](bloodtracker.gif)
+<br />
 
 <p align="center"> 
   Visitor count<br>
