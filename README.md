@@ -17,7 +17,7 @@ I just graduated with a Bachelor’s Degree in Biomedical Engineering.
 here is a quick preview of some of my work:
 <br />
 
-Sierpinski triangle from random points given a set of rules
+Sierpinski triangle from random points
 <br />
 
 ![](tri_chaos.gif)
